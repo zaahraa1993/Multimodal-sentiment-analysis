@@ -8,4 +8,4 @@ this approach leverages the strengths of different models, allowing the meta_cla
 3) Meta-classifier:
    we combined the predictions from the RNN and BERT Models and train a meta-classifier (logistic regression) to make the final predictions.
 
-   we have ensured both RNN and BERT Models use the same train, validation, and test splits by saving and loading the splits.
+ we have ensured both RNN and BERT Models use the same train, validation, and test splits by saving and loading the splits.
